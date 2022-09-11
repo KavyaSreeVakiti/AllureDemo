@@ -18,3 +18,4 @@ public class AllureReports extends AbstractTestNGCucumberTests
 
 }
 //new branch
+//new branch 2
