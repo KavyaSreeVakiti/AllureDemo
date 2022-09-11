@@ -37,6 +37,7 @@ public class Allure
     @Then("user registration should be successful")
     public void user_registration_should_be_successful() {
         System.out.println("user registration should not be successful");//changed by A
+        System.out.println("user registration should be successful and no errors");//changed by B
     }
 
 
